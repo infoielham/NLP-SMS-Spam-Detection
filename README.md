@@ -9,7 +9,6 @@ It contains one set of SMS messages in English of **5,574 messages**.
 ## Goals:
 - Convert text data from unsupervised to supervised and Find the targents.
 - Develop a predictive model that can accurately classify which texts are spam.
-<hr>
 
 
 ## Dataset sourec:
@@ -23,19 +22,15 @@ from Kaggle website [[Kaggle]](https://www.kaggle.com/uciml/sms-spam-collection-
 - SVM 
 
 ## Tools:
+- Libraries: pandas, numpy, matplotlib, seaborn, MLextend, sklearn,XGBoost,Statsmodels.
 
-### Softwares:
-<hr>
-
-
-
-### Languages & Libarry
+- Softwares: Trello, GitHub, Jupyter, prize, Zoom, Colaboratory .
 <hr>
 
 
 ## Team Members
+ - [Elham Alzahrani-Leader](https://github.com/infoielham)
+ - [Nouf Alkhaldi](https://github.com/Nouf93)
+ - [Abdulrahim Alshehri](https://github.com/abdulrahim999)
  
- - [@Elham Alzahrani](https://github.com/infoielham)
-
-
 
