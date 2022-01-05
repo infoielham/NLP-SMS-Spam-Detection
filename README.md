@@ -1,10 +1,11 @@
 # SMS-Spam-Detection
 <hr>
 
-- **Context:** 
+## Context:
+
 The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. 
 It contains one set of SMS messages in English of **5,574 messages**.
-<hr>
+
 
 ## Goals:
 - Convert text data from unsupervised to supervised and Find the targents.
@@ -29,8 +30,9 @@ from Kaggle website [[Kaggle]](https://www.kaggle.com/uciml/sms-spam-collection-
 
 
 ## Team Members
- - [Elham Alzahrani-Leader](https://github.com/infoielham)
+ - [Abdulrahim Alshehri-Leader](https://github.com/abdulrahim999)
+ - [Elham Alzahrani](https://github.com/infoielham)
  - [Nouf Alkhaldi](https://github.com/Nouf93)
- - [Abdulrahim Alshehri](https://github.com/abdulrahim999)
+ 
  
 
