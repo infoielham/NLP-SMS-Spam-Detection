@@ -8,7 +8,7 @@ It contains one set of text messages in English of **5,574 messages**.
 
 
 ## Goals:
-- Convert text data from unsupervised to supervised and Find the targents.
+- Convert text data from unsupervised to supervised and Find the targets.
 - Develop a predictive model that can accurately classify which texts are spam.
 
 
