@@ -1,4 +1,4 @@
-# SMS-Spam-Detection
+# SMS Spam Detection
 <hr>
 
 ## Context:
@@ -16,6 +16,7 @@ It contains one set of text messages in English of **5,574 messages**.
 from Kaggle website [[Kaggle]](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
 
 ## Algorithms:
+- Preprocessing text messages.
 - clustering (k-means)
 - Naive Bayes
 - XGBoost
